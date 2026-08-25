@@ -1,0 +1,74 @@
+{
+  "formatVersion": 1,
+  "id": "the-a-team-ed-sheeran",
+  "title": "The A Team",
+  "artist": "Ed Sheeran",
+  "capo": "2",
+  "tuning": "Standard",
+  "bpm": 85,
+  "duration": 258,
+  "amp": {
+    "preset": "Clean",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Speel clean en warm; als je elektrisch speelt, weinig gain en subtiele reverb."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "G     G   D/F# Em   C G"
+    },
+    {
+      "name": "Verse 1",
+      "start": 11,
+      "content": "G\nWhite lips, pale face\n               D/F# Em\nBreathing in snowflakes\n              C    G\nBurnt lungs, sour taste\nG\nLight's gone, day's end\n              D/F# Em\nStruggling to pay rent\n                C    G\nLong nights, strange men"
+    },
+    {
+      "name": "Pre-Chorus 1",
+      "start": 33,
+      "content": "      Am\nAnd they say\n                   C\nShe's in the Class A Team\n               G\nStuck in her daydream\n                    D/F#\nBeen this way since 18\n                Am\nBut lately her face seems\n                 C\nSlowly sinking, wasting\n                G\nCrumbling like pastries\n\nAnd they scream\n     D/F#\nThe worst things in life come free to us"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 56,
+      "content": "            Em            C\nCos we're just under the upperhand\nG\nAnd go mad for a couple grams\nEm                    C      G\nAnd she don't want to go outside tonight\n          Em                    C\nAnd in a pipe she flies to the Motherland\nG\nOr sells love to another man\nEm        C       G\nIt's too cold outside\n     D        Em  C  G\nFor angels to fly\n           Em  C  G\nAngels to fly"
+    },
+    {
+      "name": "Verse 2",
+      "start": 89,
+      "content": "G\nRipped gloves, raincoat\n                    D/F#  Em\nTried to swim and stay afloat\n            C   G\nDry house, wet clothes\nG\nLoose change, bank notes\n             D/F# Em\nWeary-eyed, dry throat\n           C    G\nCall girl, no phone"
+    },
+    {
+      "name": "Pre-Chorus 2",
+      "start": 112,
+      "content": "      Am\nAnd they say\n                   C\nShe's in the Class A Team\n              G\nStuck in her daydream\n                    D/F#\nBeen this way since 18\n               Am\nBut lately her face seems\n                 C\nSlowly sinking, wasting\n                G\nCrumbling like pastries\n\nAnd they scream\n     D/F#\nThe worst things in life come free to us"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 134,
+      "content": "           Em                  C\nCos we're just under the upperhand\nG\nAnd go mad for a couple grams\nEm                    C      G\nAnd she don't want to go outside tonight\n         Em                     C\nAnd in a pipe she flies to the Motherland\nG\nOr sells love to another man\nEm        C       G\nIt's too cold outside\n     D        Am\nFor angels to fly"
+    },
+    {
+      "name": "Bridge",
+      "start": 156,
+      "content": "(Am)           C\nAn angel will die\n             Em\nCovered in white\n\nClosed eye\n         G\nAnd hoping for a better life\nAm                         C\nThis time, we'll fade out tonight\n\nStraight down the line"
+    },
+    {
+      "name": "Interlude",
+      "start": 173,
+      "content": "Em C G   x2"
+    },
+    {
+      "name": "Pre-Chorus 3",
+      "start": 184,
+      "content": "      Am\nAnd they say\n                   C\nShe's in the Class A Team\n              G\nStuck in her daydream\n                    D/F#\nBeen this way since 18\n               Am\nBut lately her face seems\n                 C\nSlowly sinking, wasting\n                G\nCrumbling like pastries\n\nAnd they scream\n     D/F#\nThe worst things in life come free to us"
+    },
+    {
+      "name": "Chorus / Outro",
+      "start": 207,
+      "content": "          Em             C\nCos we're all under the upperhand\nG\nAnd go mad for a couple grams\nEm                   C     G\nAnd we don't want to go outside tonight\n          Em                 C\nAnd in a pipe we fly to the Motherland\nG\nOr sell love to another man\nEm        C       G\nIt's too cold outside\n     D        Em C G\nFor angels to fly\n            Em C G\nAngels to fly\n   Em C  G\nTo fly, fly\n           Em      C       G\nAngels to fly, to fly, to fly\n   D/F#    G\nAngels to die"
+    }
+  ]
+}

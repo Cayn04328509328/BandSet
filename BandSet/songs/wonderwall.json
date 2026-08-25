@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "id": "wonderwall-oasis",
+  "title": "Wonderwall",
+  "artist": "Oasis",
+  "capo": "2",
+  "tuning": "Standard",
+  "bpm": 87,
+  "duration": 258,
+  "amp": {
+    "preset": "Clean / Acoustic-like",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Hou het helder en open. Voor elektrisch: clean met weinig gain; laat de hoge snaren goed doorklinken."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "[NOTE] Instrumental intro"
+    },
+    {
+      "name": "Verse 1",
+      "start": 22,
+      "content": "Em       G\nToday is gonna be the day\n              D                  A7sus4\nThat they're gonna throw it back to you\nEm          G\nBy now you should've somehow\n    D                A7sus4\nRealised what you gotta do\nEm                   G\nI don't believe that anybody\n D           A7sus4              C D  A7sus4  A7sus4\nFeels the way I do about you now"
+    },
+    {
+      "name": "Verse 2",
+      "start": 43,
+      "content": "Em            G\nBackbeat, the word is on the street\n          D                 A7sus4\nThat the fire in your heart is out\nEm              G\nI'm sure you've heard it all before\n          D             A7sus4\nBut you never really had a doubt\nEm                   G       D\nI don't believe that anybody feels\n           A7sus4            Em  G  D  A7sus4\nThe way I do about you now"
+    },
+    {
+      "name": "Pre-Chorus 1",
+      "start": 65,
+      "content": "     C                D            Em\nAnd all the roads we have to walk are winding\n     C                D                Em\nAnd all the lights that lead us there are blinding\n C              D\nThere are many things that I would\nG       D      Em\nLike to say to you\n       D      A7sus4\nBut I don't know how"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 87,
+      "content": "         C    Em  G\nBecause maybe\n        Em                   C        Em  G\nYou're gonna be the one that saves me\n     Em   C  Em  G\nAnd after all\n           Em   C   Em  G  Em\nYou're my wonderwall"
+    },
+    {
+      "name": "Verse 3",
+      "start": 114,
+      "content": "Em        G\nToday was gonna be the day\n             D                  A7sus4\nBut they'll never throw it back to you\nEm         G\nBy now you should've somehow\n    D                    A7sus4\nRealised what you're not to do\nEm                   G\nI don't believe that anybody\nD            A7sus4\nFeels the way I do\n           Em  G  D  A7sus4\nAbout you now"
+    },
+    {
+      "name": "Pre-Chorus 2",
+      "start": 136,
+      "content": "     C                  D               Em\nAnd all the roads that lead you there were winding\n     C                   D             Em\nAnd all the lights that light the way are blinding\n C              D                  G       D      Em\nThere are many things that I would like to say to you\n       D      A7sus4\nBut I don't know how"
+    },
+    {
+      "name": "Chorus / Outro",
+      "start": 157,
+      "content": "        C    Em  G\nI said maybe\n        Em                   C        Em  G\nYou're gonna be the one that saves me\n     Em   C  Em  G\nAnd after all\n           Em   C   Em  G  Em\nYou're my wonderwall\n        C             Em   G\nI said maybe (I said maybe)\n        Em                   C        Em  G\nYou're gonna be the one that saves me\n     Em   C  Em  G\nAnd after all\n           Em   C   Em  G  Em\nYou're my wonderwall\n        C             Em   G\nI said maybe (I said maybe)\n        Em                   C              Em      G\nYou're gonna be the one that saves me (that saves me)\n        Em                   C              Em      G\nYou're gonna be the one that saves me (that saves me)\n        Em                   C              Em      G  Em\nYou're gonna be the one that saves me (that saves me)"
+    }
+  ]
+}

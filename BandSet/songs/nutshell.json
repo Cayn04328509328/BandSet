@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "id": "nutshell-alice-in-chains",
+  "title": "Nutshell",
+  "artist": "Alice in Chains",
+  "capo": "",
+  "tuning": "Eb Standard (Eb Ab Db Gb Bb Eb)",
+  "bpm": 62,
+  "duration": 264,
+  "amp": {
+    "preset": "Clean / warm",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 6 · Treble 5",
+    "effects": "Light reverb",
+    "notes": "Warm, donker clean geluid. Laat de open snaren lang doorklinken. Voor de solo eventueel iets meer gain/sustain."
+  },
+  "sections": [
+    {
+      "name": "Intro · progression ×5",
+      "start": 0,
+      "content": "Em7 G D\nCadd9        Em7   G D x5"
+    },
+    {
+      "name": "Verse 1",
+      "start": 60,
+      "content": "Cadd9                    Em7   G D\nWe, we chase misprinted lies\nCadd9                   Em7   G D\nWe, we face the path of time\nCadd9                                             Em7   G D\nAnd yet I fight, and yet I fight this battle all alone\nCadd9                               Em7   G D\nNo one to cry to, no place to call home"
+    },
+    {
+      "name": "Refrain 1 · vocal WHOO ×2",
+      "start": 102,
+      "content": "Cadd9                     Em7   G D\nWHOOOOOOOOOO WHOOOOOOO WHOOOO\nCadd9                     Em7   G D\nWHOOOOOOOOOO WHOOOOOOO WHOOOO"
+    },
+    {
+      "name": "Verse 2",
+      "start": 124,
+      "content": "Cadd9               Em7   G D\nMy gift of self is raped\nCadd9          Em7   G D\nMy privacy is raked\nCadd9                                           Em7   G D\nAnd yet I find, and yet I find repeating in my head\nCadd9                                  Em7   G D\nIf I can't be my own, I'd feel better dead"
+    },
+    {
+      "name": "Refrain 2 · vocal WHOO ×2",
+      "start": 166,
+      "content": "Cadd9                               Em7   G D\nWHOOOOOOOOOOOOOOOO WHOOOOOOOOO WHOOOOOO\nCadd9                               Em7   G D\nWHOOOOOOOOOOOOOOOO WHOOOOOOOOO WHOOOOOO"
+    },
+    {
+      "name": "Solo · progression ×4",
+      "start": 187,
+      "content": "Cadd9        Em7   G D x4"
+    },
+    {
+      "name": "Outro · progression ×2",
+      "start": 242,
+      "content": "Cadd9        Em7   G D x2\nCadd9\n\n[NOTE] Fade out"
+    }
+  ]
+}

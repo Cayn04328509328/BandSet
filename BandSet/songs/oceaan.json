@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "id": "oceaan-racoon",
+  "title": "Oceaan",
+  "artist": "Racoon",
+  "capo": "2",
+  "tuning": "Standard",
+  "bpm": 96,
+  "duration": 164,
+  "amp": {
+    "preset": "Clean / Acoustic-like",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Warm en helder houden. Laat het picking-patroon rustig doorklinken; bouw in bridge en laatste chorus iets op."
+  },
+  "sections": [
+    {
+      "name": "Intro · Main riff ×2",
+      "start": 0,
+      "content": "[NOTE] Speel het volledige main picking-riff 2×."
+    },
+    {
+      "name": "Verse 1 · Main riff blijven herhalen",
+      "start": 10,
+      "content": "[NOTE] Main riff onder de hele verse: ca. 4 volledige rondes; eindig op G.\n\nG           Em            G        Em\n   Er is verrekte veel te zeggen\nG           Em           G        Em\n   en te liegen nog veel meer\nG            Em              G\n   Heel veel bagger bloot te leggen\n            Em              G\nal doet het graven nog zo’n zeer\n           Em            G\nIk ben een eikel maar ik leer"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 30,
+      "content": "C       Am  Em   D          C\n    Een oceaan     om in te vluchten\nAm       Em    D           C\nnooit jaloers    te hoeven zijn\nAm     Em  D            C\nLiefde om    je hart te luchten\nAm     Em       D              G\nEen oceaan, hoe lekker zou het zijn"
+    },
+    {
+      "name": "Instrumental · Main riff",
+      "start": 50,
+      "content": "[NOTE] Speel 3× het G–Em-paar van het main riff; ga direct door naar Verse 2."
+    },
+    {
+      "name": "Verse 2 · Main riff blijven herhalen",
+      "start": 58,
+      "content": "[NOTE] Main riff onder de hele verse: ca. 4 volledige rondes; eindig op G.\n\nG          Em              G        Em\n   Was er iets waar ik om wenste\nG             Em                  G        Em\n   voordat de put droog kwam te staan\nG               Em             G\n   Das was het lang zullen we leven\n         Em               G\nFamilie waar ik veel van hou\n         Em             G\nEn voor wie ik sterven zou"
+    },
+    {
+      "name": "Bridge",
+      "start": 78,
+      "content": "[NOTE] Na \"sterven zou\": speel de korte overgangsfill richting F.\n\nF       G             F\n  Een oceaan om in te schuilen\n         G               F\nnooit alleen meer hoeven zijn\n          G                  Em\nIk heb gesmeekt niet meer te huilen\n      F\nalsjeblieft\n\n          G                     F\nHet leven jaagt geen angst meer aan\n          G             F\nik heb al zo ver moeten kruipen\n            G                Em\nHet laatste stuk zal ook wel gaan\n          F\ntot ik ga staan"
+    },
+    {
+      "name": "Final Chorus",
+      "start": 120,
+      "content": "C       Am  Em   D          C\n    Een oceaan     om in te vluchten\nAm       Em    D           C\nnooit jaloers    te hoeven zijn\nAm     Em    D            C\nLiefde om      je hart te luchten\n   Am   Em       D            C\nEen oceaan,        alleen van mij\n\n       Am  Em   D            C\n    Een oceaan     om  te verzuipen\n    Am     Em    D              C\nEen dag of wat      een held te zijn\nAm       Em     D          C\nLaat die ander     nu maar kruipen\n    Am Em      D             G\nEen oceaan vol tranen is van mij"
+    },
+    {
+      "name": "Outro · Main riff",
+      "start": 157,
+      "content": "[NOTE] Speel 3× het G–Em-paar van het main riff; eindig op G.\n\nAlleen van mij"
+    }
+  ]
+}

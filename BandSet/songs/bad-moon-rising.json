@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "id": "bad-moon-rising-creedence-clearwater-revival",
+  "title": "Bad Moon Rising",
+  "artist": "Creedence Clearwater Revival",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 180,
+  "duration": 141,
+  "amp": {
+    "preset": "Clean / lichte crunch",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Helder en strak houden. Lichte crunch mag, maar niet te zwaar; country/roots-rock feel."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "| D   | A G | D   | D   |"
+    },
+    {
+      "name": "Verse 1",
+      "start": 6,
+      "content": "D         A   G      D\nI see the bad moon a-rising\nD     A       G     D\nI see trouble on the way\nD     A    G          D\nI see earthquakes and lightning\nD     A   G       D\nI see bad times today"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 27,
+      "content": "G\nDon't go around tonight\n           D\nWell, it's bound to take your life\nA         G               D\nThere's a bad moon on the rise"
+    },
+    {
+      "name": "Verse 2",
+      "start": 38,
+      "content": "D      A    G       D\nI hear hurricanes a-blowing\nD          A      G      D\nI know the end is coming soon\nD      A      G   D\nI fear rivers overflowing\nD          A        G        D\nI hear the voice of rage and ruin"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 59,
+      "content": "G\nDon't go around tonight\n           D\nWell, it's bound to take your life\nA         G               D\nThere's a bad moon on the rise"
+    },
+    {
+      "name": "Solo",
+      "start": 70,
+      "content": "| D   | A G | D   | D   |\n| D   | A G | D   | D   |\n| G   | G   | D   | D   |\n| A   | G   | D   | D   |"
+    },
+    {
+      "name": "Verse 3",
+      "start": 91,
+      "content": "D        A        G       D\nHope you got your things together\nD            A     G           D\nHope you are quite prepared to die\nD                A      G     D\nLooks like we're in for nasty weather\nD          A     G      D\nOne eye is taken for an eye"
+    },
+    {
+      "name": "Final Chorus ×2",
+      "start": 112,
+      "content": "      G\nWell, don't go around tonight\n           D\nWell, it's bound to take your life\nA         G               D\nThere's a bad moon on the rise\n\nG\nDon't go around tonight\n           D\nWell, it's bound to take your life\nA         G               D\nThere's a bad moon on the rise"
+    }
+  ]
+}

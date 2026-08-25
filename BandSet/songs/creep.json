@@ -1,0 +1,65 @@
+{
+  "formatVersion": 1,
+  "id": "creep-radiohead",
+  "title": "Creep",
+  "artist": "Radiohead",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 92,
+  "duration": 239,
+  "amp": {
+    "preset": "Clean → Distortion",
+    "gain": "Verse low · Chorus high",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Verses zacht en clean/arpeggiated; choruses en bridge hard met distortion. Verse 3 weer zacht tot het einde."
+  },
+  "tabs": [
+    {
+      "title": "Chord voicings",
+      "content": "G     3-5-5-4-3-3\nB     7-9-9-8-7-7\nC     8-10-10-9-8-8\nCm    8-10-10-8-8-8"
+    }
+  ],
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "G B C Cm"
+    },
+    {
+      "name": "Verse 1",
+      "start": 21,
+      "content": "                     G                              B\nWhen you were here before, couldn't look you in the eyes\n                    C                         Cm\nYou're just like an angel, your skin makes me cry\n                 G                      B\nYou float like a feather in a beautiful world\n             C                          Cm\nI wish I was special, you're so fucking special"
+    },
+    {
+      "name": "Chorus 1 · play loud",
+      "start": 62,
+      "content": "[NOTE] Cm ×3, very short, then hit the chorus hard.\n\nCm\n(x3, very short)\n          G            B\nBut I'm a creep, I'm a weirdo\n                         C               Cm\nWhat the hell am I doing here? I don't belong here"
+    },
+    {
+      "name": "Verse 2",
+      "start": 81,
+      "content": "                   G                      B\nI don't care if it hurts, I wanna have control\n                 C                      Cm\nI want a perfect body, I want a perfect soul\n              G                    B\nI want you to notice when I'm not around\n                  C                     Cm\nYou're so fucking special, I wish I was special"
+    },
+    {
+      "name": "Chorus 2 · play loud",
+      "start": 123,
+      "content": "[NOTE] Cm ×3, very short, then hit the chorus hard.\n\nCm\n(x3, very short)\n          G            B\nBut I'm a creep, I'm a weirdo\n                         C               Cm\nWhat the hell am I doing here? I don't belong here"
+    },
+    {
+      "name": "Bridge · play loud",
+      "start": 145,
+      "content": "            G                     B\nOooh, oooh, she's running out the door...\nC                      Cm\nShe's running out, she run, run, run...\nG     B\nRuuuuuuuun...\nC     Cm\nRuuuuuuuuuuun..."
+    },
+    {
+      "name": "Verse 3 · play soft",
+      "start": 185,
+      "content": "[NOTE] Vanaf hier weer zacht spelen tot het einde.\n\n                   G                   B\nWhatever makes you happy, whatever you want\n                  C                     Cm\nYou're so fucking special, I wish I was special"
+    },
+    {
+      "name": "Final Chorus",
+      "start": 205,
+      "content": "          G            B\nBut I'm a creep, I'm a weirdo\n                         C               Cm\nWhat the hell am I doing here? I don't belong here\n          G\nI don't belong here"
+    }
+  ]
+}

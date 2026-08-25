@@ -1,0 +1,74 @@
+{
+  "formatVersion": 1,
+  "id": "when-you-love-someone-james-tw",
+  "title": "When You Love Someone",
+  "artist": "James TW",
+  "capo": "5",
+  "tuning": "Standard",
+  "bpm": 126,
+  "duration": 216,
+  "amp": {
+    "preset": "Clean",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Fingerstyle. Hou het clean en warm; speel vooral dynamisch. De sectienaam geeft aan welk picking/riff-patroon en hoeveel herhalingen."
+  },
+  "sections": [
+    {
+      "name": "Intro · Main riff ×2",
+      "start": 0,
+      "content": "Em  D/F#  G  C\n\n[NOTE] Main riff ×2"
+    },
+    {
+      "name": "Verse 1 · Main riff ×4",
+      "start": 15,
+      "content": "          Em          D/F#\ncome home early after class\n         G                                 C\ndon't be hanging round the back of the schoolyard\n            Em             D/F#\nI've been called up by a teacher\n             G                                 C\nshe says she can't even reach you cause you're so far\n             Em                D/F#\nyou've been talking with your fist\n          G                            C\nwe didn't raise you up like this, now did we\n                  Em              D/F#\nthere have been changes in this house\n        G                             C\nthings you don't know about in this family"
+    },
+    {
+      "name": "Pre-Chorus 1 · Pattern A → B",
+      "start": 46,
+      "content": "              Am                 C\nit don't make sense, but nevertheless\n                  G                    D\nyou gotta believe us, it's all for the best\n              Am\nit don't make sense\n               C\nthe way things go\n               D\nson you should know"
+    },
+    {
+      "name": "Chorus 1 · Riff ×3 + ending",
+      "start": 61,
+      "content": "          Em       D    G/B         C\nsometimes moms and dads fall out of love\n          Em  D         G/B         C\nsometimes two homes are better than one\n                Em             D                G/B              C\nsome things you can't tell your sister 'cause she's still too young\n            Am          C\nyeah you'll understand\n                   Em  D/F#  G    C\nwhen you love someone"
+    },
+    {
+      "name": "Instrumental · Main riff ×2",
+      "start": 80,
+      "content": "Em  D/F#  G  C\n\n[NOTE] Main riff ×2"
+    },
+    {
+      "name": "Verse 2 · Main riff ×4",
+      "start": 95,
+      "content": "            Em             D/F#\nThere ain't no one here to blame\nG                                    C\nnothing's going to change with your old friends\n     Em                 D/F#\nYour room will stay the same\n              G                   C\n'cause you'll only be away on the weekends"
+    },
+    {
+      "name": "Pre-Chorus 2 · Pattern A → B",
+      "start": 126,
+      "content": "              Am                 C\nit don't make sense, but nevertheless\n                  G                    D\nyou gotta believe us, it's all for the best\n              Am\nit don't make sense\n             C\nIt don't add up\n               G                 D\nWe'll always love you no matter what"
+    },
+    {
+      "name": "Chorus 2 · Riff ×3 + ending",
+      "start": 141,
+      "content": "          Em       D    G/B         C\nsometimes moms and dads fall out of love\n          Em  D         G/B         C\nsometimes two homes are better than one\n                Em             D                G/B              C\nsome things you can't tell your sister 'cause she's still too young\n            Am          C\nyeah you'll understand\n                   Em  D/F#  G    C\nwhen you love someone\n                   Em  D/F#  G    C\nwhen you love someone"
+    },
+    {
+      "name": "Bridge · Main riff ×2",
+      "start": 160,
+      "content": "           Em          D/F#\ncome home early after class\n         G                               C\ndon't be hanging round the back of the schoolyard\n          Em            D/F#\nIf we're crying on the couch\n           G                               C\nDon't let it freak you out, it's just been so hard"
+    },
+    {
+      "name": "Final Chorus · Chorus riff ×3",
+      "start": 175,
+      "content": "          Em       D    G/B         C\nsometimes moms and dads fall out of love\n              Em     D        G/B        C\nsometimes the best intentions just ain't enough\n                Em             D                G/B              C\nsome things you can't tell your sister 'cause she's still too young"
+    },
+    {
+      "name": "Outro · Main riff ×4",
+      "start": 188,
+      "content": "  Am        C\nyeah you'll understand\n                   Em  D/F#  G    C\nwhen you love someone\n                   Em  D/F#  G    C\nwhen you love someone\n                   Em  D/F#  G    C\nwhen you love someone\n                   Em  D/F#  G    C\nwhen you love someone"
+    }
+  ]
+}

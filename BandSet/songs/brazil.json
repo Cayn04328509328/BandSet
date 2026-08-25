@@ -1,0 +1,69 @@
+{
+  "formatVersion": 1,
+  "id": "brazil-declan-mckenna",
+  "title": "Brazil",
+  "artist": "Declan McKenna",
+  "capo": "None",
+  "tuning": "Standard",
+  "bpm": 121,
+  "duration": 252,
+  "amp": {
+    "preset": "Clean / lichte crunch",
+    "gain": "3",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Light reverb / eventueel lichte delay",
+    "notes": "Main riff: laat de ~ noten doorklinken en speel de slide 9/11 duidelijk. Amp-instellingen zijn een startpunt."
+  },
+  "sections": [
+    {
+      "name": "Main Riff",
+      "start": 0,
+      "content": "[NOTE] Main riff 12x"
+    },
+    {
+      "name": "Verse 1",
+      "start": 56,
+      "content": "  C#m       B        A   E\nI heard you sold the Amazon,\n   C#m      B       A           E\nTo show the country that you're from,\n   C#m       B            A       E      C#m      B         A      E     C#m  B\nIs where the world should want to be for find something all people need\n    A         E             C#m       B          A          E\nI'm faithless now though we win every time and I don't know how,\n         C#m            B         A            E\n'Cause I haven't bought you and I haven't sold me,\n        C#m        B        A      E\nBut the people are dying to get on TV"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 88,
+      "content": "4x main riff\nC#m        B            A         E\nI heard he lives down a river somewhere,\nC#m    B          A       E\nWith 6 cars and a grizzly bear,\nC#m      B         A        E\nHe's got eyes, but he can't see,\n          C#m          B             A         E\nWell, he talks like an angel but he looks like me"
+    },
+    {
+      "name": "Verse 2",
+      "start": 105,
+      "content": "   C#m B           A     E\nOH LORD! What have I become?\n        C#m     B          A        E\nI'm the face of God I'm my fathers' son,\n   C#m B           A        E\nI'm not, what you think you see\n            C#m      B                A          E\nI know you can't eat leather, but you can't stop me,\nC#m           B                   A      E\nWhy would you lie, why would you lie about how you feel?\nC#m        B              A          E\nI've got a mission and my mission is real\n        C#m             B             A          E\nBecause you've had your chances, yeah you've had enough\n          C#m       B             A                E\nI'm gonna burn your house down to spread peace and love\n       C#m         B   A\nAnd it gets me down,\n   E           C#m          B    A    E\nOh Lord how it gets me down"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 143,
+      "content": "Main riff 8x\nC#m        B            A         E\nI heard he lives down a river somewhere,\nC#m    B          A       E\nWith 6 cars and a grizzly bear,\nC#m      B         A        E\nHe's got eyes, but he can't see,\n          C#m          B             A         E\nWell, he talks like an angel but he looks like me"
+    },
+    {
+      "name": "Interlude",
+      "start": 158,
+      "content": "        C#m B A E\nOh Lord!\n        C#m B A E\nOh Lord!\nC#m B A E\nC#m B A E"
+    },
+    {
+      "name": "Bridge",
+      "start": 175,
+      "content": "C#m              B                   A          E\nI wanna play the beautiful game while I'm in Brazil\n       C#m                 B              A         E\n'Cause everybody plays the beautiful game out in Brazil\n         C#m             B                A                 E\nAnd it's all you've ever wanted, and it's all that you want still,\nC#m                      B              A         E\nDon't you wanna play the beautiful game out in Brazil?\n\nC#m              B                   A          E\nI wanna play the beautiful game while I'm in Brazil\n       C#m                 B              A         E\n'Cause everybody plays the beautiful game out in Brazil\n         C#m             B                A                 E\nAnd it's all you've ever wanted, and it's all that you want still,\nC#m                      B              A         E\nDon't you wanna play the beautiful game out in Brazil?\n\nN.C.\nOh yeah!"
+    },
+    {
+      "name": "Outro Chorus",
+      "start": 207,
+      "content": "Main riff 4x\nC#m        B            A         E\nI heard he lives down a river somewhere,\nC#m    B          A       E\nWith 6 cars and a grizzly bear,\nC#m      B         A        E\nHe's got eyes, but he can't see,\n          C#m          B             A         E\nWell, he talks like an angel but he looks like me\n\nMain riff 4x\nC#m        B            A          E\nI heard he lives down a river somewhere,\nC#m    B          A       E\nWith 6 cars and a grizzly bear,\nC#m      B         A        E\nHe's got eyes, but he can't see,\n          C#m          B             A         E\nWell, he talks like an angel but he looks like me"
+    }
+  ],
+  "tabs": [
+    {
+      "title": "Main Riff",
+      "content": "e|------------------------------------|\nB|-----9-------9--------10------9---9-|\nG|-9~----9-8~----8--------------------|\nD|-----------------9/11----11-9---9---|\nA|------------------------------------|\nE|------------------------------------|"
+    },
+    {
+      "title": "Akkoordvormen bij de riff",
+      "content": "C#m    B    A\ne|---9-----7----5----|\nB|---9-----7----5----|\nG|---9-----8----6----|\nD|---11----9----7----|\nA|---11----9----7----|\nE|---9-----7----5----|"
+    }
+  ]
+}

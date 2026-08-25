@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "id": "fake-plastic-trees-radiohead",
+  "title": "Fake Plastic Trees",
+  "artist": "Radiohead",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 74,
+  "duration": 290,
+  "amp": {
+    "preset": "JC Clean / Clean",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Begin heel clean en dynamisch. Bouw richting Verse 3/Chorus 3 duidelijk op; eventueel daar lichte overdrive/crunch inschakelen."
+  },
+  "sections": [
+    {
+      "name": "Verse 1",
+      "start": 12,
+      "content": "A                               F#m7\n    A green plastic watering can\n                      E      D\nFor a fake Chinese rubber plant\n              A     D\nIn the fake plastic earth\nA                                    F#m7\n    That she bought from a rubber man\n                     E      D\nIn a town full of rubber plans\n       A        D\nTo get rid of itself"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 60,
+      "content": "             Bm7\nIt wears her out..\n             A\nIt wears her out..\n             Bm7\nIt wears her out..\n             A\nIt wears her out.."
+    },
+    {
+      "name": "Verse 2",
+      "start": 91,
+      "content": "A                              F#m7\n    She lives with a broken man\n                 E      D\nA cracked polystyrene man\n          A           D\nWho just crumbles and burns\nA                        F#m7\n    He used to do surgery\n                   E   D\nFor girls in the eighties\n            A     D\nBut gravity always wins"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 137,
+      "content": "                 Bm\nAnd it wears him out..\n             A\nIt wears him out..\n             Bm\nIt wears him out..\n      Asus4     A\nIt weeeeeaaaars"
+    },
+    {
+      "name": "Verse 3",
+      "start": 166,
+      "content": "A                                F#m7\n    She looks like the real thing\n                      E    D\nShe tastes like the real thing\n          A     D\nMy fake plastic love\nA                               F#m7\n    But I can't help the feeling\n                          E   D\nI could blow through the ceiling\n         A         D\nIf I just turn and run"
+    },
+    {
+      "name": "Chorus 3",
+      "start": 216,
+      "content": "                Bm7\nAnd it wears me out\n            A\nIt wears me out\n            Bm7\nIt wears me out\n            A\nIt wears me out"
+    },
+    {
+      "name": "Outro",
+      "start": 244,
+      "content": "               Bm7\nAnd if I could be who you wanted\n           A\nIf I could be who you wanted\n     Bm7\nAll the time..\n     A\nAll the time..\n\nBm7   A   Bm7   A"
+    }
+  ]
+}

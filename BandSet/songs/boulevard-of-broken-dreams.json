@@ -1,0 +1,104 @@
+{
+  "formatVersion": 1,
+  "id": "boulevard-of-broken-dreams-green-day",
+  "title": "Boulevard of Broken Dreams",
+  "artist": "Green Day",
+  "capo": "1",
+  "tuning": "Standard",
+  "bpm": 84,
+  "duration": 262,
+  "amp": {
+    "preset": "Clean / Tremolo → Overdrive",
+    "gain": "Verse low · Chorus medium",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Tremolo in verses · light reverb",
+    "notes": "Verses clean/dark with tremolo feel; choruses fuller with overdrive. BPM shown half-time for easier counting."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "Em  G  D  A\nEm  G  D  A"
+    },
+    {
+      "name": "Verse 1",
+      "start": 11,
+      "content": "Em        G                D             A              Em\n I walk a lonely road, the only one that I have ever known\n           G              D                A               Em\nDon't know where it goes, but it's home to me and I walk alone"
+    },
+    {
+      "name": "Interlude 1",
+      "start": 26,
+      "content": "(Em) G  D  A"
+    },
+    {
+      "name": "Verse 2",
+      "start": 31,
+      "content": "Em           G             D            A              Em\n I walk this empty street, on the boulevard of broken dreams\n          G                D             A               Em\nWhere the city sleeps, and I'm the only one and I walk alone"
+    },
+    {
+      "name": "Interlude 2",
+      "start": 46,
+      "content": "(Em) G  D           A             Em\n           I walk alone, I walk alone\n(Em) G  D           A\n           I walk alone, I walk a...."
+    },
+    {
+      "name": "Chorus 1",
+      "start": 52,
+      "content": "C       G            D              Em\n    My shadow's the only one that walks beside me\nC        G       D               Em\n    My shallow heart's the only thing that's beating\nC        G       D                 Em\n    Sometimes I wish someone out there will find me\nC         G      B7\n    Till then I walk alone"
+    },
+    {
+      "name": "Interlude 3",
+      "start": 76,
+      "content": "Em      G      D      A      Em\n   Ah-Ah, Ah-Ah, Ah-Ah, Ahhh-Ah\n     G      D      A\nAh-Ah, Ah-Ah, Ah-Ah"
+    },
+    {
+      "name": "Verse 3",
+      "start": 87,
+      "content": "Em           G\n I'm walking down the line\nD               A               Em\nThat divides me somewhere in my mind\n       G           D\nOn the border line of the edge\n    A              Em\nAnd where I walk alone"
+    },
+    {
+      "name": "Interlude 4",
+      "start": 102,
+      "content": "(Em) G  D  A"
+    },
+    {
+      "name": "Verse 4",
+      "start": 107,
+      "content": "Em      G\n Read between the lines\nD                    A              Em\nWhat's fucked up and everything's alright\n         G               D               A\nCheck my vital signs, to know I'm still alive\n             Em\nAnd I walk alone"
+    },
+    {
+      "name": "Interlude 5",
+      "start": 122,
+      "content": "(Em) G  D           A             Em\n           I walk alone, I walk alone\n(Em) G  D           A\n           I walk alone, I walk a...."
+    },
+    {
+      "name": "Chorus 2",
+      "start": 128,
+      "content": "C       G            D              Em\n    My shadow's the only one that walks beside me\nC        G       D               Em\n    My shallow heart's the only thing that's beating\nC        G       D                 Em\n    Sometimes I wish someone out there will find me\nC         G      B7\n    Till then I walk alone"
+    },
+    {
+      "name": "Interlude 6",
+      "start": 152,
+      "content": "Em      G      D      A      Em\n   Ah-Ah, Ah-Ah, Ah-Ah, Ahhh-Ah\n     G      D         A\nAh-Ah, Ah-Ah, I walk alone, I walk a..."
+    },
+    {
+      "name": "Solo",
+      "start": 163,
+      "content": "C  G  D  Em\nC  G  D  Em\nC  G  D  Em\nC  G  B  B7"
+    },
+    {
+      "name": "Verse 5",
+      "start": 189,
+      "content": "Em          G             D           A               Em\nI walk this empty street, on the boulevard of broken dreams\n           G               D              A\nWhere the city sleeps, and I'm the only one and I walk a..."
+    },
+    {
+      "name": "Chorus 3",
+      "start": 201,
+      "content": "C       G            D              Em\n    My shadow's the only one that walks beside me\nC        G       D               Em\n    My shallow heart's the only thing that's beating\nC        G       D                 Em\n    Sometimes I wish someone out there will find me\nC         G      B7\n    Till then I walk alone"
+    },
+    {
+      "name": "Outro",
+      "start": 227,
+      "content": "Em  C  D   A/C#  G  D#5\nEm  C  D   A/C#  G  D#5\nEm  C  D   A/C#  G  D#5\nEm  C  D   A/C#  G  D#5"
+    }
+  ]
+}

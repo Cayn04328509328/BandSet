@@ -1,0 +1,65 @@
+{
+  "formatVersion": 1,
+  "id": "chasing-cars-snow-patrol",
+  "title": "Chasing Cars",
+  "artist": "Snow Patrol",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 104,
+  "duration": 263,
+  "amp": {
+    "preset": "Clean → fuller clean/drive",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb / delay optional",
+    "notes": "Keep the early sections spacious and restrained; build gradually into the later choruses."
+  },
+  "tabs": [
+    {
+      "title": "Chorus guitar pattern",
+      "content": "e|-----------------|-----------------|-----------------|-----------------|\nB|-----------------|-----------------|-----------------|-----------------|\nG|-6-6-6-6-6-6-6-6-|-6-6-6-6-6-6-6-6-|-----------------|-----------------|\nD|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|-6-6-6-6-6-6-6-6-|-6-6-6-6-6-6-6-6-|\nA|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|\nE|-5-5-5-5-5-5-5-5-|-5-5-5-5-5-5-5-5-|-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|\n\ne|-----------------|-----------------|-----------------|-----------------|\nB|-----------------|-----------------|-----------------|-----------------|\nG|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|-6-6-6-6-6-6-6-6-|-6-6-6-6-6-6-6-6-|\nD|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|\nA|-5-5-5-5-5-5-5-5-|-5-5-5-5-5-5-5-5-|-7-7-7-7-7-7-7-7-|-7-7-7-7-7-7-7-7-|\nE|-----------------|-----------------|-5-5-5-5-5-5-5-5-|-5-5-5-5-5-5-5-5-|"
+    }
+  ],
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "[NOTE] Instrumental intro"
+    },
+    {
+      "name": "Verse 1",
+      "start": 5,
+      "content": "We'll do it all\nEverything\nOn our own\nWe don't need\nAnything\nOr anyone"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 42,
+      "content": "If I lay here\nIf I just lay here\nWould you lie with me and just forget the world?"
+    },
+    {
+      "name": "Verse 2",
+      "start": 60,
+      "content": "I don't quite know\nHow to say\nHow I feel\nThose three words\nAre said too much\nThey're not enough"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 97,
+      "content": "If I lay here\nIf I just lay here\nWould you lie with me and just forget the world?\nForget what we're told\nBefore we get too old\nShow me a garden that's burstin' into life"
+    },
+    {
+      "name": "Verse 3",
+      "start": 134,
+      "content": "Let's waste time\nChasin' cars\nAround our heads\nI need your grace\nTo remind me\nTo find my own"
+    },
+    {
+      "name": "Chorus 3",
+      "start": 171,
+      "content": "If I lay here\nIf I just lay here\nWould you lie with me and just forget the world?\nForget what we're told\nBefore we get too old\nShow me a garden that's burstin' into life\nAll that I am\nAll that I ever was\nIs here in your perfect eyes, they're all I can see\nI don't know where\nConfused about how, as well\nJust know that these things will never change for us at all"
+    },
+    {
+      "name": "Outro",
+      "start": 245,
+      "content": "If I lay here\nIf I just lay here\nWould you lie with me and just forget the world?"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "id": "half-the-world-away-oasis",
+  "title": "Half the World Away",
+  "artist": "Oasis",
+  "capo": "None",
+  "tuning": "Standard",
+  "bpm": 86,
+  "duration": 262,
+  "amp": {
+    "preset": "Clean / warm acoustic-style",
+    "gain": "2-3",
+    "eq": "Bass 5 · Mid 6 · Treble 5",
+    "effects": "Light reverb",
+    "notes": "Rustig en open spelen. Fmaj7 en overgang C → C/B → Am duidelijk laten klinken."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "C  Fmaj7\n\nC  Fmaj7"
+    },
+    {
+      "name": "Verse 1",
+      "start": 13,
+      "content": "C               Fmaj7            C                   Fmaj7\nI would like to leave this city, this old town don't smell too pretty\n   C      C/B       Am            D7                 Fmaj7\nAnd I can feel the warning signs running around my mind\nC          Fmaj7                   C                 Fmaj7\nAnd when I leave this island I'll book myself into a soul asylum\nC           C/B      Am            D7                 Fmaj7\nCos' I can feel the warning signs running around my mind"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 57,
+      "content": "Am        C        E7                        Am\nSo here I go still scratching around in the same old hole\n   Fmaj7                   D7            G  G7\nMy body feels young but my mind is very o--old\nAm             C              E7                           Am\nSo what do you say, you can't give me the dreams that are mine anyway\nFmaj7                 Fm                   C        C/B   Am\nHalf the world away, half the world away, half the world away\n          D7                           Fmaj7\nI've been lost, I've been found but I don't feel down"
+    },
+    {
+      "name": "Instrumental",
+      "start": 102,
+      "content": "C  Fmaj7\n\nC  Fmaj7"
+    },
+    {
+      "name": "Verse 2",
+      "start": 117,
+      "content": "C          Fmaj7                   C                  Fmaj7\nAnd when I leave this planet, you know I'd stay but I just can't stand it and\nC      C/B      Am            D7                 Fmaj7\nI can feel the warning signs running around my mind\nC              Fmaj7                    C                  Fmaj7\nAnd if I could leave this spirit, I'll find me a hole and I'll live in it\n   C       C/B      Am            D7               Fmaj7\nAnd I can feel the warning signs running around my mind"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 161,
+      "content": "Am        C        E7                        Am\nSo here I go still scratching around in the same old hole\n   Fmaj7                   D7            G  G7\nMy body feels young but my mind is very o--old\nAm             C              E7                           Am\nSo what do you say you, can't give me the dreams that are mine anyway\nFmaj7                 Fm                   C        C/B   Am\nHalf the world away, half the world away, half the world away\n          D7                           Fmaj7\nI've been lost, I've been found but I don't feel down\n\nFmaj7\nNo, I don't feel down\nFmaj7\nNo, I don't feel down\nFmaj7\nNo, I don't feel down\nFmaj7"
+    },
+    {
+      "name": "Outro",
+      "start": 226,
+      "content": "C Fmaj7\n               C  Fmaj7\nI don't feel down\n               C  Fmaj7\nI don't feel down\n               C  Fmaj7\nI don't feel down\n               C  Fmaj7\nI don't feel down"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "id": "yellow-coldplay",
+  "title": "Yellow",
+  "artist": "Coldplay",
+  "capo": "4",
+  "tuning": "Standard",
+  "bpm": 87,
+  "duration": 266,
+  "amp": {
+    "preset": "Clean / lichte drive",
+    "gain": "4",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Reverb 3",
+    "notes": "Voorlopige instellingen; pas ze aan op jouw Roland Cube 30 en jullie bandgeluid."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "G    G\nG    D    C    G"
+    },
+    {
+      "name": "Verse 1",
+      "start": 33,
+      "content": "G\n  Look at the stars\n                       D\nLook how they shine for you\n                     Cmaj7\nAnd everything you do\n\nYeah, they were all yellow\nG\n  I came along\n                  D\nI wrote a song for you\n                         Cmaj7\nAnd all the things you do\n\nAnd it was called \"Yellow\"\nG                  D\n  So then I took my turn\n                             Cmaj7\nOh, what a thing to have done\n                      G  Gsus4\nAnd it was all yellow"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 89,
+      "content": "Cmaj7        Em7          D\n      Your skin, oh yeah, your skin and bones\nCmaj7       Em7     D\n      Turn into something beautiful\nCmaj7       Em7          D\n      You know, you know I love you so\nCmaj7\n      You know I love you so"
+    },
+    {
+      "name": "Instrumental",
+      "start": 111,
+      "content": "G    D    C    G  Gsus4"
+    },
+    {
+      "name": "Verse 2",
+      "start": 133,
+      "content": "G\n  I swam across\n                   D\nI jumped across for you\n                      Cmaj7\nOh, what a thing to do\n\n'Cause you were all yellow\nG\n  I drew a line\n                 D\nI drew a line for you\n                      Cmaj7\nOh, what a thing to do\n                      G  Gsus4\nAnd it was all yellow"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 171,
+      "content": "Cmaj7        Em7          D\n      Your skin, oh yeah, your skin and bones\nCmaj7       Em7     D\n      Turn into something beautiful\nCmaj7           Em7         D              Cmaj7\n      And you know, for you I bleed myself dry\n\nFor you I bleed myself dry"
+    },
+    {
+      "name": "Instrumental 2",
+      "start": 195,
+      "content": "G    D    C    G  Gsus4"
+    },
+    {
+      "name": "Bridge",
+      "start": 216,
+      "content": "     G                             D\nIt's true, look how they shine for you\n                        Cmaj7\nLook how they shine for you\n                        G\nLook how they shine for\n                        D\nLook how they shine for you\n                        Cmaj7\nLook how they shine for you\n\nLook how they shine"
+    },
+    {
+      "name": "Outro",
+      "start": 250,
+      "content": "G\n  Look at the stars\n                       Dm7\nLook how they shine for you\n                          Cmaj7\nAnd all the things that you do"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "id": "black-pearl-jam",
+  "title": "Black",
+  "artist": "Pearl Jam",
+  "capo": "None",
+  "tuning": "Standard",
+  "bpm": 77,
+  "duration": 342,
+  "amp": {
+    "preset": "Clean / edge of breakup",
+    "gain": "3-4",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Meer drive/dynamiek richting bridge en outro; later naar smaak aanpassen."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "E    Asus2    E    Asus2\nE    A        E"
+    },
+    {
+      "name": "Verse 1",
+      "start": 20,
+      "content": "E               Asus2             E              Asus2\nSheets of empty canvas, untouched sheets of clay\n     E                 A              E\nWere laid spread out before me as her body once did\n\nE           Asus2          E               Asus2\nAll five horizons revolved around her soul as the earth to the sun\nE             A                       E\nNow the air I tasted and breathed has taken a turn"
+    },
+    {
+      "name": "Pre-chorus 1",
+      "start": 79,
+      "content": "C                                    Em\nOh, and all I taught her was everything\nC                                   Em\nOh, I know she gave me all that she wore"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 99,
+      "content": "           D\nAnd now my bitter hands,\n        C\nChafe beneath the clouds\n            Em\nOf what was everything\n        D\nAll the pictures have\n          C\nAll been washed in black\n               Em\nTattooed everything"
+    },
+    {
+      "name": "Verse 2",
+      "start": 119,
+      "content": "E        Asus2                E               Asus2\nI take a walk outside, I'm surrounded by some kids at play\nE                A            E\nI can feel their laughter, so why do I sear"
+    },
+    {
+      "name": "Pre-chorus 2",
+      "start": 144,
+      "content": "C                                           Em\nOh, and twisted thoughts that spin 'round my head, I'm spinning, oh\n    C                                     Em\nI'm spinning, how quick the sun can drop away"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 168,
+      "content": "           D\nAnd now my bitter hands\n       C\nCradle broken glass\n                Em\nOf what was everything\n        D\nAll the pictures have\n          C\nAll been washed in black\n             Em\nTattooed everything\n        D\nAll the love gone bad\n          C\nTurned my world to black\n                 D\nAnd tattooed all I see,\n         C\nAll that I am,\n              Em\nAll that I'll be"
+    },
+    {
+      "name": "Bridge",
+      "start": 202,
+      "content": "D C     Em      D       C\n  Yeah  Uh huh  Uh huh  Uh\n  Em\nI know someday you'll have a beautiful life,\n  D                          C\nI know you'll be a star in somebody else's sky\n    Em        D            C\nBut why, why, why can't it be,\nC                Em  D  C\nOh can't it be mine\nEm      D        C\nooh, ah yeah, aah ooh\nC                        Em\n(Doodoo-doo-doo-doodoodoo)\nEm                       D\n(Doodoo-doo-doo-doodoodoo)"
+    },
+    {
+      "name": "Outro",
+      "start": 257,
+      "content": "[x7]\nD                       C\nDoodoo-doo-doo-doodoodoo\nC                       Em\nDoodoo-doo-doo-doodoodoo\nEm                      D\nDoodoo-doo-doo-doodoodoo"
+    }
+  ]
+}

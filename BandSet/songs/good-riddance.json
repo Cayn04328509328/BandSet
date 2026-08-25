@@ -1,0 +1,74 @@
+{
+  "formatVersion": 1,
+  "id": "good-riddance-time-of-your-life-green-day",
+  "title": "Good Riddance (Time of Your Life)",
+  "artist": "Green Day",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 95,
+  "duration": 154,
+  "amp": {
+    "preset": "Clean / Acoustic-like",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Akoestisch/helder houden. Begin rustig en open; vanaf Verse 2 mag het strummen voller worden."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "[NOTE] Albumversie: inclusief de korte false starts aan het begin.\n\n| G       | Cadd9 D  |\n| G       | Cadd9 D  |"
+    },
+    {
+      "name": "Verse 1",
+      "start": 12,
+      "content": "G                          Cadd9             D\n  Another turning point, a fork stuck in the road\nG                                Cadd9              D\n  Time grabs you by the wrist, directs you where to go\nEm            D            C                  G\n  So make the best of this test and don't ask why\nEm           D              C                 G\n  It's not a question but a lesson learned in time"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 37,
+      "content": "     Em             G            Em              G\nIt's something unpredictable but in the end it's right\n  Em               D            G\nI hope you had the time of your life"
+    },
+    {
+      "name": "Interlude 1",
+      "start": 47,
+      "content": "|(G)      | Cadd9 D  |\n| G       | Cadd9 D  |"
+    },
+    {
+      "name": "Verse 2",
+      "start": 55,
+      "content": "G                             Cadd9                D\n  So take the photographs and still frames in your mind\nG                        Cadd9                D\n  Hang it on a shelf, in good health and good time\nEm           D            C            G\n  Tattoos of memories and dead skin on trial\nEm              D            C             G\n  For what it's worth it was worth all the while"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 80,
+      "content": "     Em             G            Em              G\nIt's something unpredictable but in the end it's right\n  Em               D            G\nI hope you had the time of your life"
+    },
+    {
+      "name": "Instrumental",
+      "start": 90,
+      "content": "|(G)      | Cadd9 D  |\n| G       | Cadd9 D  |\n| G       | Cadd9 D  |\n| G       | Cadd9 D  |\n| Em  D   | C    G   |\n| Em  D   | C    G   |"
+    },
+    {
+      "name": "Chorus 3",
+      "start": 120,
+      "content": "     Em             G            Em              G\nIt's something unpredictable but in the end it's right\n  Em               D            G\nI hope you had the time of your life"
+    },
+    {
+      "name": "Interlude 2",
+      "start": 130,
+      "content": "|(G)      | Cadd9 D  |\n| G       | Cadd9 D  |"
+    },
+    {
+      "name": "Final Chorus",
+      "start": 138,
+      "content": "     Em             G            Em              G\nIt's something unpredictable but in the end it's right\n  Em               D            G\nI hope you had the time of your life"
+    },
+    {
+      "name": "Outro",
+      "start": 148,
+      "content": "|(G)      | Cadd9 D  |\n| G       | Cadd9 D  |\n| G"
+    }
+  ]
+}

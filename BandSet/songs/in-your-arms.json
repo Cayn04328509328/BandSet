@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "id": "in-your-arms-chefspecial",
+  "title": "In Your Arms",
+  "artist": "Chef'Special",
+  "capo": "None",
+  "tuning": "Standard",
+  "bpm": 93,
+  "duration": 215,
+  "amp": {
+    "preset": "Clean / warm",
+    "gain": "2-3",
+    "eq": "Bass 5 · Mid 6 · Treble 5",
+    "effects": "Light reverb",
+    "notes": "Special chords:\nE/C  [x32100]\nE/G# [4xx45x]\nF/A  [5xx56x]\nF    [x33210]\n\nPre-chorus: Dm → G bevat hammer-on B|--0-0h1-0--|.\nOutro: C eindigt met hammer-on op de D-snaar."
+  },
+  "sections": [
+    {
+      "name": "Verse 1",
+      "start": 7,
+      "content": "C                              E/C\nI know you’re gone, I know you’re gone\n      F                 E/G#\nBut I don’t feel what I know\nC                              E/C\nI know you’re gone, I know you’re gone\n      F               E/G#\nBut my mind ain’t in control"
+    },
+    {
+      "name": "Pre-Chorus 1",
+      "start": 28,
+      "content": "             Am                 G\nCause it’s my heart that’s been missing you\n             F                C\nAnd it’s the heart I need to listen to\n             Am                 G\nAnd it’s been singing songs for tender dreams\n    F                C\nThe ones you sang to help us sleep\n    Am             G\nAnd one day I will sing those songs\nF                    C\nSing them ‘till they sleep\nDm                    G\nJust like you sang to me\nDm                          G\nJust like you sang, sang to me\n\n[NOTE] Dm → G: hammer-on B|--0-0h1-0--|"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 54,
+      "content": "         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F           C\nIn your arms I feel safe\n         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F\nIn your arms"
+    },
+    {
+      "name": "Verse 2",
+      "start": 78,
+      "content": "C                       E/C\nI miss you so, I miss you so\n         F                  E/G#\nAnd I’ll miss you ‘till i’m old\nC                        E/C\nI miss you so, I miss you so\n       F                  E/G#\nBut my fears will fade, I know"
+    },
+    {
+      "name": "Pre-Chorus 2",
+      "start": 96,
+      "content": "              Am              G\nCause it’s my heart that you helped to build\n   F           C\nAnd love is my compass still yeah\nAm                  G\nLove will fill the holes I’ve got\n      F               C\nCause you will never hold me\n      Am                G\nBut I know that you are with me here\n  F                   C\nI know that you have peace\n           Dm                   G\nCause you, you let us sing to sleep\nDm                              G\nYou let us sing your heart to sleep\n\n[NOTE] Dm → G: hammer-on B|--0-0h1-0--|"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 121,
+      "content": "         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F           C\nIn your arms I feel safe\n         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F\nIn your arms I feel safe"
+    },
+    {
+      "name": "Bridge",
+      "start": 145,
+      "content": "Dm G Dm G\n\n        C                Em\nAnd I know that you are with me\n        Am\nAnd I know that you have peace\n         F                            E\nCause you let us sing your soul, your mind and heart to sleep"
+    },
+    {
+      "name": "Final Chorus",
+      "start": 166,
+      "content": "         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F           C\nIn your arms I feel safe\n         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F\nIn your arms I feel safe\n\n         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F           C\nIn your arms I feel safe\n         C             G        F                C\nFrom the day that I met you I stopped feeling afraid\n         Am          G\nIn your arms I feel safe\n         F\nIn your arms"
+    },
+    {
+      "name": "Outro",
+      "start": 207,
+      "content": "C                       E/C\nI miss you so, I miss you so\n         F               E/G#   F/A   C\nAnd I’ll miss you 'til I’m old\n\n[NOTE] Eind-C: hammer-on op de D-snaar."
+    }
+  ]
+}

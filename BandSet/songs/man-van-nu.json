@@ -1,0 +1,44 @@
+{
+  "formatVersion": 1,
+  "id": "man-van-nu-waylon",
+  "title": "Man van Nu",
+  "artist": "Waylon",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": null,
+  "duration": 174,
+  "amp": {
+    "preset": "Clean / lichte crunch",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Warm en open houden; eventueel lichte crunch voor wat meer body in de bandmix."
+  },
+  "sections": [
+    {
+      "name": "Verse 1",
+      "start": 0,
+      "content": "G                      Bm               Em      G\nDaar sta ik, bal in de hand, schoenen versleten\nD        G                   Bm              Em\nVoor het huis op de foto van toen, bijna vergeten\nD      C                    D\nEn ik wist niet dat ik hem miste\n                G\nDat jochie van toen\nG           Bm                     Em\nHard op de tong, een hoofd vol met dromen\nD        G                 Bm              Em\nDagen te kort en zeeën van tijd, alles lag open\nD      C                  Dsus4 D\nEn het voelt ineens als gister"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 47,
+      "content": "      Am7            D\nEn ik blader door de jaren\n      G        D         Em\nIeder blad een nieuw seizoen\n   C                D               G              Em\nEn ineens vallen ze samen, dezelfde ogеn, dezelfde haren\n\nD          C   D          G  C\nDe man van nu, de man van nu\n\nC            D                  G\nDe man van nu en het jochie van toen"
+    },
+    {
+      "name": "Verse 2",
+      "start": 89,
+      "content": "G                           Bm                    Em\nDaar staat hij, dag op het strand om nooit te vergeten\nD         G                Bm              Em\nDat waren wij, gevangen in kleur in het verleden\nD    C             D\nEn ineens is alles helder"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 108,
+      "content": "       Am7            D\nAls ik blader door de jaren\n      G        D         Em\nIeder blad een nieuw seizoen\n   C                D               G              Em\nEn ineens vallen ze samen, dezelfde ogеn, dezelfde haren\nD          C   D          G  C\nDe man van nu, de man van nu\nC            D                  G\nDe man van nu en het jochie van toen"
+    },
+    {
+      "name": "Outro",
+      "start": 145,
+      "content": "      F                         C              G\nEn de jaren die ertussen lagen, lossen zomaar op\n      F                                  Am  D\nEn ik droom weer door de beelden van m'n jeugd\n           G             Bm                  Em\nDaar staat zij, mooi als altijd, Moeder Voor velen\nD         G               Bm                     Em     D  G\nMaar voor mij, altijd voor mij, bedankt voor het leven"
+    }
+  ]
+}

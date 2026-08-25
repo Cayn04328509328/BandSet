@@ -1,0 +1,65 @@
+{
+  "formatVersion": 1,
+  "id": "song-2-blur",
+  "title": "Song 2",
+  "artist": "Blur",
+  "capo": "",
+  "tuning": "Eb Standard",
+  "hideTuningInPerformance": true,
+  "bpm": 130,
+  "duration": 122,
+  "amp": {
+    "preset": "Clean → Distortion",
+    "gain": "Clean laag · Distortion stevig",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Weinig reverb",
+    "notes": "Couplet/clean stukken strak en dun houden; bij de woo-hoo/chorus hard naar distortion voor het grote dynamische verschil."
+  },
+  "tabs": [
+    {
+      "title": "Tuning & chord shapes",
+      "content": "Tuning: Eb - Ab - Db - Gb - Bb - Eb\n\nChords Used:\nF#m ~ 2-4-4-2-2-2\nE   ~ 0-2-2-1-0-0\nA   ~ 5-7-7-6-5-5\nB   ~ 7-9-9-8-7-7\nC#m ~ 9-11-11-9-9-9\nD   ~ 10-12-12-11-10-10"
+    },
+    {
+      "title": "Acoustic strumming pattern",
+      "content": "The strumming of the acoustic chords is played like this:\n\n       F#m         E               A       B   C#m\neb|x---2---2---2-2-0---0---0---x-x-5---5---7---9-------9---9---9---|\nBb|x---2---2---2-2-0---0---0---x-x-5---5---7---9-------9---9---9---|\nGb|x---2---2---2-2-1---1---1---x-x-6---6---8---9-------9---9---9---|\nDb|x---4---4---4-4-2---2---2---x-x-7---7---9---11------11--11--11--|\nAb|x---4---4---4-4-2---2---2---x-x-7---7---9---11------11--11--11--|\nEb|x---2---2---2-2-0---0---0---x-x-5---5---7---9-------9---9---9---|\n   1 + & + 2 + & + 3 + & + 4 + & + 1 + & + 2 + & + 3 + & + 4 + & +"
+    }
+  ],
+  "sections": [
+    {
+      "name": "Intro · 4 maten drums → progression ×2",
+      "start": 0,
+      "content": "[NOTE] 4 maten drums, daarna:\nF#m E A B C#m\nF#m E A B C#m"
+    },
+    {
+      "name": "Intro · Woo-hoo ×4",
+      "start": 15,
+      "content": "    F#m E A B C#m\nWoo-hoo\n    F#m E A B C#m\nWoo-hoo\n    F#m E A B C#m\nWoo-hoo\n    F#m E A B C#m\nWoo-hoo"
+    },
+    {
+      "name": "Verse 1",
+      "start": 30,
+      "content": "         F#m          E A B C#m\nI got my head checked\n        F#m    E A B C#m\nBy a jumbo jet\n          F#m  E A B C#m\nIt wasn't easy\n            F#m E A B\nBut nothing is\nC#m\nNo"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 44,
+      "content": "    F#m E\nWoo-hoo\n       A       B  C#m\nWhen I feel heavy-metal\n    F#m E\nWoo-hoo\n        A        B   C#m\nAnd I'm pins and I'm needles\n    F#m E\nWoo-hoo\n        A       B   C#m\nWell, I lie and I'm easy\nF#m                   A\nAll the time but I'm never sure\n      D\nWhy I need you\n           F#m      E A B C#m\nPleased to meet you\n\nF#m E A B C#m"
+    },
+    {
+      "name": "Verse 2",
+      "start": 67,
+      "content": "         F#m       E A B C#m\nI got my head down\n       F#m       E A B C#m\nWhen I was young\n            F#m     E A B C#m\nIt's not my problem\n            F#m     E A B C#m\nIt's not my problem"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 82,
+      "content": "    F#m E\nWoo-hoo\n       A       B  C#m\nWhen I feel heavy-metal\n    F#m E\nWoo-hoo\n        A        B   C#m\nAnd I'm pins and I'm needles\n    F#m E\nWoo-hoo\n        A       B   C#m\nWell, I lie and I'm easy\nF#m                   A\nAll the time but I'm never sure\n      D\nWhy I need you\n                F#m E A B C#m\nPleased to meet you"
+    },
+    {
+      "name": "Outro",
+      "start": 105,
+      "content": "         F#m E A B C#m\nYeah yeah\n         F#m E A B C#m\nYeah yeah\n         F#m E A B C#m\nYeah yeah\n\nOh yeah"
+    }
+  ]
+}

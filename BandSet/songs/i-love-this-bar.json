@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "id": "i-love-this-bar-toby-keith",
+  "title": "I Love This Bar",
+  "artist": "Toby Keith",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 115,
+  "duration": 242,
+  "amp": {
+    "preset": "Clean",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Country-clean basis; eventueel heel lichte crunch als dat beter in de bandmix zit."
+  },
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "[NOTE] Instrumental intro"
+    },
+    {
+      "name": "Verse 1",
+      "start": 20,
+      "content": "D               A\nWe got winners, we got losers\nG                 D\nChain smokers and boozers\n       D               A\nWe got yuppies, we got bikers\nG                   A\nWe got thirsty hitchhikers\n        Bm                    A             G\nAnd the girls next door dress up like movie stars\nG  Em   F#m   G     A         D\nMmm mm - mm - mm, I love this bar\n\n       D                A\nWe got cowboys, we got truckers\nG                        D\nBroken-hearted fools and suckers\n       D                A\nWe got hustlers, we got fighters\nG                   A\nEarly birds and all-nighters\n        Bm                  A            G\nAnd the veterans talk about their battle scars\nG  Em    F#m  G     A         D\nMmm mm - mm - mm, I love this bar"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 90,
+      "content": "            Bm\nI love this bar\n                D\nIt's my kind of place\n     E                                     A\nJust walkin' through the front door puts a big smile on my face\n             Bm\nIt ain't too far\n            D\nCome as you are\nG   Em   F#m   G     A         D\nMmm mm - mm - mm, I love this bar"
+    },
+    {
+      "name": "Verse 2",
+      "start": 122,
+      "content": "          D                       A\nI've seen short skirts, we've got high techs\nG                      D\nBlue-collared boys and rednecks\n       D             A\nWe got lovers, lotsa lookers\n          G                      A\nI've even seen dancin' girls and hookers\n       Bm                A                 G\nAnd we like to drink our beer from a Mason jar\nG   Em   F#m   G     A         D\nMmm mm - mm - mm, I love this bar, yes, I do"
+    },
+    {
+      "name": "Instrumental Interlude",
+      "start": 154,
+      "content": "Bm  D   Bm   D"
+    },
+    {
+      "name": "Bridge",
+      "start": 172,
+      "content": "          A\nI like my truck\n          D\nI like my girlfriend\n          E\nI like to take her out to dinner\n         A\nI like a movie now and then"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 193,
+      "content": "                Bm\nBut I love this bar\n                D\nIt's my kind of place\n     E                                     A\nJust trovin' around the dance floor puts a big smile on my face\n          Bm\nNo cover charge\n            D\nCome as you are\nG   Em   F#m   G     A         D\nMmm mm - mm - mm, I love this bar"
+    },
+    {
+      "name": "Outro",
+      "start": 229,
+      "content": "   Em   F#m   G          A             D    A  D\nMmm mm - mm - mm, I just love this old bar"
+    }
+  ]
+}

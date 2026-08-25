@@ -1,0 +1,82 @@
+{
+  "formatVersion": 1,
+  "id": "kilby-girl-the-backseat-lovers",
+  "title": "Kilby Girl",
+  "artist": "The Backseat Lovers",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 162,
+  "duration": 282,
+  "amp": {
+    "preset": "Clean / lichte crunch",
+    "gain": "3",
+    "eq": "Bass 5 · Mid 6 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Start clean en open; laat de instrumentale tweede helft geleidelijk groter worden. Fmaj7 kan als x87555 of xx3555."
+  },
+  "tabs": [
+    {
+      "title": "Main Riff",
+      "content": "e|-----------------|-----------------|-----------------|-----------------|\nB|-----------------|-----------------|-----------------|-----------------|\nG|-----------------|-----------------|-----------------|-----------------|\nD|-----2-------2---|-----2-------2---|-----0-------0---|-----0-------0---|\nA|-3-3---3-3-3---3-|-3-3---3-3-3---3-|-0h3---3-0h3---3-|-0h3---3-0h3---3-|\nE|-----------------|-----------------|-----------------|-----------------|"
+    },
+    {
+      "title": "Turnaround · Rhythm",
+      "content": "e|-----------------|-----------------|-----------------|-----------------|\nB|-----------------|-----------------|-----------------|-----------------|\nG|-----------------|-----------------|-----------------|-----------------|\nD|-----2-------2---|-----2-------2---|-----0-------0---|---/2-0---0------|\nA|-3-3---3-3-3---3-|-3-3---3-3-3---3-|-0h3---3-0h3---3-|-0------3---3----|\nE|-----------------|-----------------|-----------------|-----------------|"
+    },
+    {
+      "title": "Turnaround · Lead",
+      "content": "e|-----------------|--------------------|----------------|\nB|-----------------|--------------------|----------------|\nG|-------------0h2-|-------0h2p2--------|----------------|\nD|-----------------|-2h3p2-------2p0-0h2|p0--------------|\nA|-----------------|--------------------|---0-0-0-0------|\nE|-----------------|--------------------|------------3-3-|"
+    },
+    {
+      "title": "Fmaj7 voicing",
+      "content": "x87555   of   xx3555"
+    }
+  ],
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "C       Am  G\nC       Am"
+    },
+    {
+      "name": "Verse 1",
+      "start": 12,
+      "content": "C                                  Am     G\nWe’re both throwing smoke into the night\n     C                             Am\nIt’s raining, I suppose you need a ride\n         C                                     Am    G\nShe said I’ve got nothing to do and neither do you\n          C                                Am\nThere’s a place down the road where we can waste the whole afternoon"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 37,
+      "content": "                        C\nI overhead that she was 19\n                          Gm\nShe’s got a fake ID and a nose ring\nFmaj7                       C\nThose kind of girls tend to know things\n                    Gm      Fmaj7\nBetter than I do\n        C                              Gm\nAnd I’m dying to figure out what she’s hiding\n      Fmaj7                     C                     Gm    Fmaj7\nshe’s playing it cool but she’s lying better than I do"
+    },
+    {
+      "name": "Solo",
+      "start": 59,
+      "content": "C          Gm   Fmaj7 x4"
+    },
+    {
+      "name": "Turnaround",
+      "start": 78,
+      "content": "C          Am   G x2"
+    },
+    {
+      "name": "Verse 2",
+      "start": 97,
+      "content": "   C                             Am    G\nIt feels like a night to carry a tune\nC                                             Am\nI’ve been carrying yours since you wrecked my room\nC                                         Am     G\nAnd I’ve got nothing to do and neither do you\n      C                               Am N.C.            Fmaj7\nSo we chase jack with love and waste away the whole afternoon"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 124,
+      "content": "                         C\nI overhead that she was 19\n                          Gm\nShe’s got a fake ID and a nose ring\nFmaj7                       C\nThose kind of girls tend to know things\n                   Gm      Fmaj7\nBetter than I do\n        C                              Gm\nAnd I’m dying to figure out what she’s hiding\n      Fmaj7                     C                     Gm    Fmaj7\nshe’s playing it cool but she’s lying better than I do"
+    },
+    {
+      "name": "Vamp",
+      "start": 145,
+      "content": "C    Gm  Fmaj7  x6"
+    },
+    {
+      "name": "Outro",
+      "start": 250,
+      "content": "Fmaj7   Cmaj7"
+    }
+  ]
+}
