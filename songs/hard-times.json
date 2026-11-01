@@ -1,0 +1,101 @@
+{
+  "formatVersion": 1,
+  "id": "hard-times-paramore",
+  "title": "Hard Times",
+  "artist": "Paramore",
+  "capo": "1",
+  "tuning": "Standard",
+  "bpm": 120,
+  "duration": 182,
+  "amp": {
+    "preset": "Clean / lichte crunch",
+    "gain": "Low",
+    "eq": "Bass 4 ? Mid 6 ? Treble 6",
+    "effects": "Lichte reverb; eventueel subtiele chorus",
+    "notes": "Voorstel: helder, kort en percussief spelen. Houd de gedempte aanslagen strak; laat ruimte voor bas en zang. Akkoordnamen zijn grepen met capo 1; de aangeleverde leadtabs gebruiken absolute fretnummers. Timings zijn voorlopig en moeten met jullie uitvoering worden gecontroleerd."
+  },
+  "tabs": [
+    {
+      "title": "Capo, akkoordgrepen & timing",
+      "content": "Standard tuning: E A D G B e.\n\nAkkoorden in Performance: jouw D-versie met capo 1.\nDe gelinkte UG-bron gebruikt C-grepen met capo 3. Beide klinken hetzelfde: D ? Eb, Em ? Fm, G ? Ab, Bm ? Cm, A ? Bb, G/D ? Ab/Eb.\nDe aangeleverde leadtabs geven absolute fretnummers vanaf de topkam aan, niet relatief aan de capo. Tel er geen extra fret bij op.\n\nGrepen relatief aan capo 1 (lage E naar hoge e):\nD    x-x-0-2-3-2\nEm   0-2-2-0-0-0\nG    3-2-0-0-0-3\nBm   x-2-4-4-3-2\nA    x-0-2-2-2-0\nG/D  x-x-0-0-0-3\n\nDe Em- en Bm-overgangen tussen haakjes in jouw coupletten zijn optioneel; in Performance staan ze als gewone akkoordnamen voor de bestaande akkoordweergave.\n\nAlbumtijdlijn: 3:02, tempo-indicatie 120 BPM. De aangeleverde tabmarkers lijken 16 seconden later te liggen: 0:23 ? 0:07, 0:31 ? 0:15, 0:47 ? 0:31, 0:49 ? 0:33, 1:07 ? 0:51. Die offset is een aanname, niet op audio nagemeten. Latere sectiestarts zijn schattingen. Pas ze in de editor aan als jullie een andere uitvoering gebruiken.\n\nIntro: D Em | G Bm | D Em | A G/D ?2, verdeeld over Intro en Main riff.\nBron: https://tabs.ultimate-guitar.com/tab/paramore/hard-times-chords-1983477\nTekst en gitaartabs: door jou aangeleverd.\nDuur/tempo: https://songdata.io/track/0w5Bdu51Ka25Pf3hojsKHh/Hard-Times-by-Paramore"
+    },
+    {
+      "title": "Guitar riff ? tab 0:23 / 1:07",
+      "content": "e|---------------8----------------8----------------8----------------8----|\nB|---------------9----------------8----------------9----------------8----|\nG|------8---10---10---10----8-----8-------8---10---10---10---12-----8----|\nD|----8---10-----10-----10----8---10----8---10-----10-----10---13---10---|\nA|---------------8----------------10---------------8----------------10---|\nE|--------------------------------8---------------------------------8----|\n\nRake pick door de akkoorden. Hetzelfde riff staat bij 0:23 en 1:07 in je aangeleverde tab. Albumtijdlijn voorlopig: 0:07 en 0:51."
+    },
+    {
+      "title": "Verse 1 ? tab 0:31",
+      "content": "e|-----------------------------------------------------------------------|\nB|-----------------------------------------------------------------------|\nG|------8---10--------10----8-------------8---10--------10---12----------|x2\nD|----8---10------------10----8---------8---10------------10---13--------|\nA|-----------------------------------------------------------------------|\nE|-----------------------------------------------------------------------|\n\nSpeel 2?. Albumtijdlijn voorlopig: 0:15."
+    },
+    {
+      "title": "Pre-Chorus ? tab 0:47",
+      "content": "e|-----------------------------------------------------------------------|\nB|-----------------8\\----------------------------------------------------|\nG|-----------------8\\----------------------------------------------------|\nD|----6---8---10---------------------------------------------------------|\nA|-----------------------------------------------------------------------|\nE|-----------------------------------------------------------------------|\n\nVolgens je aangeleverde tab geen echte gitaarpartij, maar een optionele invulling. Albumtijdlijn voorlopig: 0:31."
+    },
+    {
+      "title": "Chorus 1 ? tab 0:49",
+      "content": "e|---8--8--xx-8--x-8--8----3-3-xx-3-x-3-3------------------------------------------|\nB|---9--9--xx-9--x-9--9----4-4-xx-4-x-4-4---8-8-xx-8-x-8-8--8h9--9--xx-9--x-9--9---|\nG|---10-10-xx-10-x-10-10---5-5-xx-5-x-5-5---8-8-xx-8-x-8-8--8----8--xx-8--x-8--8---|x2\nD|---10-10-xx-10-x-10-10---5-5-xx-5-x-5-5---8-8-xx-8-x-8-8--8h10-10-xx-10-x-10-10--|\nA|---8--8--xx-8--x-8--8----3-3-xx-3-x-3-3------------------------------------------|\nE|---------------------------------------------------------------------------------|\n\nSpeel 2?. Optioneel: laat de basnoot van de eerste twee akkoorden weg. x = gedempt, h = hammer-on. Albumtijdlijn voorlopig: 0:33."
+    }
+  ],
+  "sections": [
+    {
+      "name": "Intro",
+      "start": 0,
+      "content": "[NOTE] Eerste ronde van de intro; tweede ronde bij Main riff. Timings zijn voorlopig.\n\nD Em\nG Bm\nD Em\nA G/D"
+    },
+    {
+      "name": "Intro ? Main riff",
+      "start": 7,
+      "content": "[NOTE] Tweede ronde; speel het aangeleverde main riff (tabmarker 0:23).\n\nD Em\nG Bm\nD Em\nA G/D"
+    },
+    {
+      "name": "Verse 1",
+      "start": 15,
+      "content": "D          Em\n  All that I want\nG              Bm\n  Is to wake up fine\nD                  Em\n  Tell me that I?m alright\nA       G/D\n  That I ain?t gonna die\nD            Em\n  All that I want\nG              Bm\n  Is a hole in the ground\nD                     Em\n  You can tell me when it?s alright\nA     G/D\n  For me to come out"
+    },
+    {
+      "name": "Pre-Chorus",
+      "start": 31,
+      "content": "[NOTE] Korte overgang; de leadfill uit de tab is optioneel.\n\nG A Bm D"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 33,
+      "content": "     Em\nHard times\n                      Bm\nGonna make you wonder why you even try\n     D\nHard times\n                        G\nGonna take you down and laugh when you cry\n      Em\nThese lives\n                           Bm\nAnd I still don't know how I even survive\n     D           G\nHard times, Hard times\n\nAnd I gotta get to rock bottom"
+    },
+    {
+      "name": "Interlude ? Main riff",
+      "start": 51,
+      "content": "[NOTE] E?n ronde; herhaal het main riff (tabmarker 1:07).\n\nD Em\nG Bm\nD Em\nA G/D"
+    },
+    {
+      "name": "Verse 2",
+      "start": 59,
+      "content": "D     Em\n  I'm walking around\nG         Bm\n  With my little raincloud\nD                 Em\n  Hanging over my head\nA     G/D\n  And it ain?t coming down\nD      Em\n  Where do I go?\nG           Bm\n  Gimme some sort of sign\nD             Em\n  Hit me with lightning!\nA     G/D\n  Maybe I?ll come alive"
+    },
+    {
+      "name": "Chorus 2",
+      "start": 77,
+      "content": "     Em\nHard times\n                      Bm\nGonna make you wonder why you even try\n     D\nHard times\n                        G\nGonna take you down and laugh when you cry\n      Em\nThese lives\n                           Bm\nAnd I still don't know how I even survive\n     D           G\nHard times, Hard times\n\nAnd I gotta get to rock bottom"
+    },
+    {
+      "name": "Bridge",
+      "start": 95,
+      "content": "D\nTell my friends I?m coming down\nG\nWe'll kick it when I hit the ground\nD\nTell my friends I?m coming down\nG\nWe'll kick it when I hit the ground\nD\n     When I hit the ground\nG\n     When I hit the ground\nD\n     When I hit the ground\nA  G\n     When I hit the ground"
+    },
+    {
+      "name": "Final Chorus ? 1/2",
+      "start": 129,
+      "content": "     Em\nHard times\n                      Bm\nGonna make you wonder why you even try\n     D\nHard times\n                        G\nGonna take you down and laugh when you cry\n      Em\nThese lives\n                           Bm\nAnd I still don't know how I even survive\n     D           G\nHard times, Hard times"
+    },
+    {
+      "name": "Final Chorus ? 2/2",
+      "start": 145,
+      "content": "     Em\nHard times\n                      Bm\nGonna make you wonder why you even try\n     D\nHard times\n                        G\nGonna take you down and laugh when you cry\n      Em\nThese lives\n                           Bm\nAnd I still don't know how I even survive\n     D           G\nHard times, Hard times\n\nAnd I gotta get to rock bottom"
+    },
+    {
+      "name": "Outro",
+      "start": 161,
+      "content": "[NOTE] Afsluiting tot 3:02; volg jullie opname. Voor dit gedeelte is geen aparte tekst of gitaarpartij aangeleverd."
+    }
+  ]
+}

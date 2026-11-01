@@ -1,4 +1,4 @@
-const CACHE = 'bandset-v6';
+const CACHE = 'bandset-v8';
 
 const CORE = [
   './',

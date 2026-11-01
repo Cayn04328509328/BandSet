@@ -460,11 +460,11 @@ textarea { min-height: 110px; resize: vertical; line-height: 1.45; }
 .progress-track { height: 3px; background: #27272b; border-radius: 99px; overflow: hidden; margin-top: 10px; }
 .progress-bar { height: 100%; width: 0; background: var(--blue); }
 .performance-meta { color: var(--muted); font-size: .82rem; margin-top: 8px; }
-.performance-content { display: grid; gap: 38px; }
-.performance-section { scroll-margin-top: 145px; opacity: .58; transition: opacity .25s ease; }
+.performance-content { display: grid; grid-template-columns: minmax(0, 1fr); gap: 38px; }
+.performance-section { min-width: 0; scroll-margin-top: 145px; opacity: .58; transition: opacity .25s ease; }
 .performance-section.active { opacity: 1; }
 .performance-section h2 { font-size: .8rem; color: #c3c3ca; letter-spacing: .13em; text-transform: uppercase; margin-bottom: 15px; }
-.song-content { white-space: normal; font-size: clamp(1.05rem, 4.8vw, 1.42rem); line-height: 1.65; }
+.song-content { min-width: 0; max-width: 100%; overflow-wrap: anywhere; white-space: normal; font-size: clamp(1.05rem, 4.8vw, 1.42rem); line-height: 1.65; }
 .performance-shell[data-text-size="small"] .song-content {
   font-size: clamp(.95rem, 4.2vw, 1.28rem);
 }
@@ -504,12 +504,14 @@ textarea { min-height: 110px; resize: vertical; line-height: 1.45; }
   position: relative;
   flex: 0 0 auto;
   min-width: 0;
+  max-width: 100%;
   padding-top: 1.18em;
 }
 
 .chord-lyric-cell .lyric-fragment {
   display: block;
-  white-space: pre;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
   line-height: 1.55;
 }
 
@@ -539,8 +541,7 @@ textarea { min-height: 110px; resize: vertical; line-height: 1.45; }
   color: #8ab7ff;
   font-weight: 800;
   letter-spacing: .02em;
-  white-space: pre;
-  overflow-x: auto;
+  white-space: pre-wrap;
 }
 .song-content .note-line { color: #d2d2d7; font-style: italic; border-left: 3px solid #414149; padding-left: 10px; }
 .song-content .tab-line { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .9em; line-height: 1.42; white-space: pre; overflow-x: auto; display: block; }
