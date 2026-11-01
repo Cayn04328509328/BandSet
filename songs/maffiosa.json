@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "id": "maffiosa-erwin-de-vries",
+  "title": "Maffiosa",
+  "artist": "Erwin de Vries",
+  "capo": "",
+  "tuning": "Standard",
+  "bpm": 91,
+  "duration": 202,
+  "amp": {
+    "preset": "Clean / Acoustic-like",
+    "gain": "Low",
+    "eq": "Bass 5 · Mid 5 · Treble 6",
+    "effects": "Light reverb",
+    "notes": "Voorstel voor de repetitie: helder en ritmisch spelen; laat de zang voorop staan. Sectiestarts zijn schattingen en moeten nog met jullie opname worden afgestemd."
+  },
+  "tabs": [
+    {
+      "title": "Chord voicings",
+      "content": "Voorstel: Standard tuning (E A D G B e), geen capo.\nGrepen van lage E naar hoge e; x = niet aanslaan.\n\nC   x-3-2-0-1-0\nEm  0-2-2-0-0-0\nDm  x-x-0-2-3-1\nG   3-2-0-0-0-3\nF   1-3-3-2-1-1\nAm  x-0-2-2-1-0"
+    },
+    {
+      "title": "Bron & timing",
+      "content": "Akkoordvolgorde en songvorm: Ultimate Guitar, versie 1, tab 1839132.\nhttps://tabs.ultimate-guitar.com/tab/erwin-de-vries/maffiosa-chords-1839132\n\nDe bron bevat twee coupletten, één refrein en daarna het refrein 3×. De drie herhalingen staan afzonderlijk in Performance, zodat de tijdlijn doorloopt. De extra Dm–F–G-overgang in Verse 2 is behouden. Songtekst met akkoorden overgenomen uit de door jou aangeleverde tekst.\n\nReferentieduur: 3:22 (Spotify, Maffiosa – Erwin De Vries). Tempo-indicatie: 91 BPM (Chordify).\nhttps://open.spotify.com/embed/playlist/3fGfqUFvXyy2jlL4mo3ugC?theme=0\nhttps://chordify.net/chords/maffiosa-erwin-de-vries-topic\n\nLET OP: de akkoordbron bevat geen timestamps. Alle sectiestarts zijn voorlopige schattingen, niet nagemeten op audio. Stem ze in de editor af op jullie uitvoering; gebruik de snelheidsregelaar alleen voor een gelijkmatig tempoverschil."
+    }
+  ],
+  "sections": [
+    {
+      "name": "Verse 1",
+      "start": 0,
+      "content": "[NOTE] Sectietijden zijn voorlopig; stem ze in de editor af op jullie uitvoering.\n\nC                                          Em\nToun ik hom aal zag slijmen mit mien laive wicht\n                Dm\nDochten wie dij smoel\n             G\nTimmeren wie dicht\nC                                             Em\nMoar zien rechtervoest was staarker as van mien pa\n                Dm\nDus kwam oompie Jan\n          G\nOet Muntendam\n\nF          G              Am\nSloot mien wicht op in de auto\nF          G                 Am\nWant door kon hai heur nait zain\nF          G          C          Am\nBelde mien brueur oet Pekel kwam geliek\n           F                                   G\nEn mit ons goud getraind fysiek luiten wie ons zain"
+    },
+    {
+      "name": "Chorus 1",
+      "start": 58,
+      "content": "               C\nBlief mit dien poten van mien poedie\n       Em\nAnders kom ik wel even bie die\n         F              G\nMit mien pa en mit mien oompie\n               Am\nWie loaten die alle houken zain\n         Em\nEn aaw'n alles kort en klain\n            Dm            G            C\nEn van dien toukomst valt niks meer te zain"
+    },
+    {
+      "name": "Verse 2",
+      "start": 79,
+      "content": "C                                           Em\nMoar noa n poosje noa wat schaitwaark in de kroug\n          Dm\nStond mien wichie\n            G\nInains om t horntje\nC                                Em\nZie haar zuch oet mien kovverbak verlost\n       Dm\nEn zie vruig\n                G\nNoar heur laive brueurtje\n\nF      G            Am\nOompie Jan begon te lachen\nF      G             Am\nReanimeren holp nait meer\nF         G         C                    Am\nWant heur brueurtje lag in plakken op de grond\n             F\nWant wat was kop en wat was kont\nDm\nWel heur familie blaauw en bont\n          F                        G\nMoar mien poedie was gelukkig nait gewond!"
+    },
+    {
+      "name": "Chorus 2 · 1/3",
+      "start": 139,
+      "content": "[NOTE] Eerste van drie afsluitende refreinen.\n\n               C\nBlief mit dien poten van mien poedie\n       Em\nAnders kom ik wel even bie die\n         F              G\nMit mien pa en mit mien oompie\n               Am\nWie loaten die alle houken zain\n         Em\nEn aaw'n alles kort en klain\n            Dm            G            C\nEn van dien toukomst valt niks meer te zain"
+    },
+    {
+      "name": "Chorus 3 · 2/3",
+      "start": 160,
+      "content": "               C\nBlief mit dien poten van mien poedie\n       Em\nAnders kom ik wel even bie die\n         F              G\nMit mien pa en mit mien oompie\n               Am\nWie loaten die alle houken zain\n         Em\nEn aaw'n alles kort en klain\n            Dm            G            C\nEn van dien toukomst valt niks meer te zain"
+    },
+    {
+      "name": "Final Chorus · 3/3",
+      "start": 181,
+      "content": "[NOTE] Derde en laatste herhaling.\n\n               C\nBlief mit dien poten van mien poedie\n       Em\nAnders kom ik wel even bie die\n         F              G\nMit mien pa en mit mien oompie\n               Am\nWie loaten die alle houken zain\n         Em\nEn aaw'n alles kort en klain\n            Dm            G            C\nEn van dien toukomst valt niks meer te zain"
+    }
+  ]
+}
